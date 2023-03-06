@@ -1,4 +1,4 @@
-package melenapack1
+package melenamodules
 
 func AddInts(a, b int) int {
 	return a + b
