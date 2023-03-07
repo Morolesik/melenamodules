@@ -1,5 +1,5 @@
 package melenamodules
 
-func Adds3(a, b int) int {
+func Adds4(a, b int) int {
 	return a + b
 }
